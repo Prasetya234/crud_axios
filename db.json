@@ -1,0 +1,37 @@
+
+{
+  "user": [
+    {
+      "name": "ILham santoso",
+      "tempat_tanggal_lahir": "semarang,27 maret 2004",
+      "Sekolah": "Smk Bina nusantara",
+      "Jurusan": "tkj",
+      "Kelas": "tkj2",
+      "id": 0
+    },
+    {
+      "id": 2,
+      "name": "Prasetya Dhany",
+      "tempat_tanggal_lahir": "semarang,6 juni 2005",
+      "Sekolah": "Smk Bina Nusantara",
+      "Jurusan": "tkj",
+      "Kelas": "tkj2"
+    },
+    {
+      "id": 3,
+      "name": "Guntur",
+      "tempat_tanggal_lahir": "semarang,29 Februari 2015",
+      "Sekolah": "Smk Bina Nusantara",
+      "Jurusan": "Tkj",
+      "Kelas": "tkj2"
+    },
+    {
+      "id": 4,
+      "name": "Banbang",
+      "tempat_tanggal_lahir": "semarang,28 mei 2007",
+      "Sekolah": "smk Jauh disana",
+      "Jurusan": "tkj",
+      "Kelas": "tkj2"
+    }
+  ]
+}
